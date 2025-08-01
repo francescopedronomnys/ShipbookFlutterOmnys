@@ -63,4 +63,6 @@ android {
             }
         }
     }
+    
+    namespace 'com.omnys.flutter.shipbook.shipbook_flutter_omnys'
 }
